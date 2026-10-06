@@ -1,0 +1,11 @@
+# Local text notes & PBL scratch files
+ALL_CODE_PBL.txt
+Hangman_PBL_AllCode.md
+PBL_ESSENTIAL_CODE.txt
+check_db.php
+
+# IDE & OS settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
